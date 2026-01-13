@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Sitemap: https://africaescorts.com/sitemap.xml
+
+# Crawler delay to prevent overload
+Crawl-delay: 5
+
+# Specific bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
